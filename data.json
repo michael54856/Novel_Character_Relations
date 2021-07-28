@@ -1,0 +1,4188 @@
+{
+    "nodes": [
+        {
+            "id": "楊過",
+            "val": 3862
+        },
+        {
+            "id": "小龍女",
+            "val": 1667
+        },
+        {
+            "id": "黃蓉",
+            "val": 1351
+        },
+        {
+            "id": "郭靖",
+            "val": 1156
+        },
+        {
+            "id": "郭芙",
+            "val": 777
+        },
+        {
+            "id": "李莫愁",
+            "val": 746
+        },
+        {
+            "id": "郭襄",
+            "val": 548
+        },
+        {
+            "id": "陸無雙",
+            "val": 497
+        },
+        {
+            "id": "周伯通",
+            "val": 460
+        },
+        {
+            "id": "金輪國師",
+            "val": 432
+        },
+        {
+            "id": "趙志敬",
+            "val": 357
+        },
+        {
+            "id": "黃藥師",
+            "val": 331
+        },
+        {
+            "id": "程英",
+            "val": 314
+        },
+        {
+            "id": "瀟湘子",
+            "val": 310
+        },
+        {
+            "id": "霍都",
+            "val": 308
+        },
+        {
+            "id": "歐陽鋒",
+            "val": 304
+        },
+        {
+            "id": "尼摩星",
+            "val": 276
+        },
+        {
+            "id": "耶律齊",
+            "val": 273
+        },
+        {
+            "id": "公孫止",
+            "val": 270
+        },
+        {
+            "id": "裘千尺",
+            "val": 249
+        },
+        {
+            "id": "朱子柳",
+            "val": 228
+        },
+        {
+            "id": "尹克西",
+            "val": 221
+        },
+        {
+            "id": "洪七公",
+            "val": 216
+        },
+        {
+            "id": "武三通",
+            "val": 214
+        },
+        {
+            "id": "段智興",
+            "val": 204
+        },
+        {
+            "id": "武修文",
+            "val": 188
+        },
+        {
+            "id": "尹志平",
+            "val": 188
+        },
+        {
+            "id": "達爾巴",
+            "val": 178
+        },
+        {
+            "id": "孫婆婆",
+            "val": 169
+        },
+        {
+            "id": "完顏萍",
+            "val": 159
+        },
+        {
+            "id": "樊一翁",
+            "val": 154
+        },
+        {
+            "id": "武敦儒",
+            "val": 147
+        },
+        {
+            "id": "郝大通",
+            "val": 126
+        },
+        {
+            "id": "王重陽",
+            "val": 123
+        },
+        {
+            "id": "馬光佐",
+            "val": 121
+        },
+        {
+            "id": "洪凌波",
+            "val": 110
+        },
+        {
+            "id": "忽必烈",
+            "val": 97
+        },
+        {
+            "id": "瑛姑",
+            "val": 83
+        },
+        {
+            "id": "耶律燕",
+            "val": 81
+        },
+        {
+            "id": "魯有腳",
+            "val": 76
+        },
+        {
+            "id": "公孫綠萼",
+            "val": 66
+        },
+        {
+            "id": "孫不二",
+            "val": 61
+        },
+        {
+            "id": "裘千仞",
+            "val": 58
+        },
+        {
+            "id": "鹿清篤",
+            "val": 50
+        },
+        {
+            "id": "大頭鬼",
+            "val": 47
+        },
+        {
+            "id": "史孟捷",
+            "val": 46
+        },
+        {
+            "id": "史季強",
+            "val": 42
+        },
+        {
+            "id": "馬鈺",
+            "val": 42
+        },
+        {
+            "id": "張君寶",
+            "val": 41
+        },
+        {
+            "id": "林朝英",
+            "val": 38
+        },
+        {
+            "id": "楊康",
+            "val": 36
+        },
+        {
+            "id": "武三娘",
+            "val": 36
+        },
+        {
+            "id": "馮默風",
+            "val": 35
+        },
+        {
+            "id": "陸立鼎",
+            "val": 34
+        },
+        {
+            "id": "史叔剛",
+            "val": 31
+        },
+        {
+            "id": "史仲猛",
+            "val": 28
+        },
+        {
+            "id": "郭破虜",
+            "val": 26
+        },
+        {
+            "id": "史伯威",
+            "val": 26
+        },
+        {
+            "id": "聖因師太",
+            "val": 24
+        },
+        {
+            "id": "張一氓",
+            "val": 24
+        },
+        {
+            "id": "百草仙",
+            "val": 22
+        },
+        {
+            "id": "耶律晉",
+            "val": 22
+        },
+        {
+            "id": "梁長老",
+            "val": 19
+        },
+        {
+            "id": "彭長老",
+            "val": 18
+        },
+        {
+            "id": "笑臉鬼",
+            "val": 18
+        },
+        {
+            "id": "趙老爵爺",
+            "val": 17
+        },
+        {
+            "id": "穆念慈",
+            "val": 16
+        },
+        {
+            "id": "陸二娘",
+            "val": 16
+        },
+        {
+            "id": "人廚子",
+            "val": 14
+        },
+        {
+            "id": "何足道",
+            "val": 11
+        },
+        {
+            "id": "耶律楚材",
+            "val": 11
+        },
+        {
+            "id": "吊死鬼",
+            "val": 11
+        },
+        {
+            "id": "喪門鬼",
+            "val": 11
+        },
+        {
+            "id": "聾啞頭陀",
+            "val": 11
+        },
+        {
+            "id": "青靈子",
+            "val": 11
+        },
+        {
+            "id": "韓無垢",
+            "val": 10
+        },
+        {
+            "id": "陸冠英",
+            "val": 10
+        },
+        {
+            "id": "彭連虎",
+            "val": 10
+        },
+        {
+            "id": "裘千丈",
+            "val": 9
+        },
+        {
+            "id": "程瑤迦",
+            "val": 9
+        },
+        {
+            "id": "曇華大師",
+            "val": 9
+        },
+        {
+            "id": "沙通天",
+            "val": 8
+        },
+        {
+            "id": "九死生",
+            "val": 7
+        },
+        {
+            "id": "藍天和",
+            "val": 7
+        },
+        {
+            "id": "陸乘風",
+            "val": 6
+        },
+        {
+            "id": "靈智上人",
+            "val": 6
+        },
+        {
+            "id": "無常鬼",
+            "val": 6
+        },
+        {
+            "id": "侯通海",
+            "val": 5
+        },
+        {
+            "id": "煞神鬼",
+            "val": 5
+        },
+        {
+            "id": "曲靈風",
+            "val": 4
+        },
+        {
+            "id": "催命鬼",
+            "val": 4
+        },
+        {
+            "id": "童大海",
+            "val": 4
+        },
+        {
+            "id": "討債鬼",
+            "val": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "楊過",
+            "target": "小龍女",
+            "val": 831
+        },
+        {
+            "source": "楊過",
+            "target": "郭靖",
+            "val": 305
+        },
+        {
+            "source": "楊過",
+            "target": "黃蓉",
+            "val": 274
+        },
+        {
+            "source": "郭靖",
+            "target": "黃蓉",
+            "val": 242
+        },
+        {
+            "source": "楊過",
+            "target": "李莫愁",
+            "val": 220
+        },
+        {
+            "source": "楊過",
+            "target": "郭芙",
+            "val": 187
+        },
+        {
+            "source": "楊過",
+            "target": "陸無雙",
+            "val": 177
+        },
+        {
+            "source": "楊過",
+            "target": "郭襄",
+            "val": 171
+        },
+        {
+            "source": "楊過",
+            "target": "金輪國師",
+            "val": 113
+        },
+        {
+            "source": "黃蓉",
+            "target": "郭芙",
+            "val": 112
+        },
+        {
+            "source": "楊過",
+            "target": "周伯通",
+            "val": 106
+        },
+        {
+            "source": "程英",
+            "target": "陸無雙",
+            "val": 104
+        },
+        {
+            "source": "楊過",
+            "target": "趙志敬",
+            "val": 94
+        },
+        {
+            "source": "小龍女",
+            "target": "黃蓉",
+            "val": 85
+        },
+        {
+            "source": "楊過",
+            "target": "裘千尺",
+            "val": 85
+        },
+        {
+            "source": "楊過",
+            "target": "歐陽鋒",
+            "val": 83
+        },
+        {
+            "source": "小龍女",
+            "target": "李莫愁",
+            "val": 80
+        },
+        {
+            "source": "趙志敬",
+            "target": "尹志平",
+            "val": 79
+        },
+        {
+            "source": "黃蓉",
+            "target": "李莫愁",
+            "val": 76
+        },
+        {
+            "source": "楊過",
+            "target": "公孫止",
+            "val": 71
+        },
+        {
+            "source": "楊過",
+            "target": "孫婆婆",
+            "val": 69
+        },
+        {
+            "source": "楊過",
+            "target": "霍都",
+            "val": 68
+        },
+        {
+            "source": "楊過",
+            "target": "黃藥師",
+            "val": 65
+        },
+        {
+            "source": "楊過",
+            "target": "程英",
+            "val": 64
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "洪七公",
+            "val": 59
+        },
+        {
+            "source": "黃蓉",
+            "target": "郭襄",
+            "val": 58
+        },
+        {
+            "source": "楊過",
+            "target": "達爾巴",
+            "val": 57
+        },
+        {
+            "source": "瀟湘子",
+            "target": "尹克西",
+            "val": 57
+        },
+        {
+            "source": "瀟湘子",
+            "target": "尼摩星",
+            "val": 54
+        },
+        {
+            "source": "小龍女",
+            "target": "周伯通",
+            "val": 54
+        },
+        {
+            "source": "楊過",
+            "target": "瀟湘子",
+            "val": 53
+        },
+        {
+            "source": "郭靖",
+            "target": "郭芙",
+            "val": 52
+        },
+        {
+            "source": "李莫愁",
+            "target": "陸無雙",
+            "val": 52
+        },
+        {
+            "source": "小龍女",
+            "target": "趙志敬",
+            "val": 52
+        },
+        {
+            "source": "公孫止",
+            "target": "裘千尺",
+            "val": 52
+        },
+        {
+            "source": "楊過",
+            "target": "樊一翁",
+            "val": 49
+        },
+        {
+            "source": "小龍女",
+            "target": "金輪國師",
+            "val": 47
+        },
+        {
+            "source": "郭芙",
+            "target": "郭襄",
+            "val": 47
+        },
+        {
+            "source": "楊過",
+            "target": "武修文",
+            "val": 45
+        },
+        {
+            "source": "小龍女",
+            "target": "郭靖",
+            "val": 45
+        },
+        {
+            "source": "郭芙",
+            "target": "耶律齊",
+            "val": 44
+        },
+        {
+            "source": "楊過",
+            "target": "洪七公",
+            "val": 44
+        },
+        {
+            "source": "小龍女",
+            "target": "郭襄",
+            "val": 44
+        },
+        {
+            "source": "武敦儒",
+            "target": "武修文",
+            "val": 43
+        },
+        {
+            "source": "達爾巴",
+            "target": "霍都",
+            "val": 42
+        },
+        {
+            "source": "小龍女",
+            "target": "孫婆婆",
+            "val": 40
+        },
+        {
+            "source": "黃蓉",
+            "target": "周伯通",
+            "val": 39
+        },
+        {
+            "source": "楊過",
+            "target": "武三通",
+            "val": 39
+        },
+        {
+            "source": "郭芙",
+            "target": "陸無雙",
+            "val": 38
+        },
+        {
+            "source": "楊過",
+            "target": "武敦儒",
+            "val": 37
+        },
+        {
+            "source": "黃蓉",
+            "target": "金輪國師",
+            "val": 37
+        },
+        {
+            "source": "楊過",
+            "target": "朱子柳",
+            "val": 36
+        },
+        {
+            "source": "楊過",
+            "target": "尼摩星",
+            "val": 36
+        },
+        {
+            "source": "楊過",
+            "target": "公孫綠萼",
+            "val": 36
+        },
+        {
+            "source": "李莫愁",
+            "target": "洪凌波",
+            "val": 35
+        },
+        {
+            "source": "楊過",
+            "target": "完顏萍",
+            "val": 35
+        },
+        {
+            "source": "朱子柳",
+            "target": "霍都",
+            "val": 35
+        },
+        {
+            "source": "楊過",
+            "target": "尹克西",
+            "val": 35
+        },
+        {
+            "source": "楊過",
+            "target": "洪凌波",
+            "val": 34
+        },
+        {
+            "source": "楊過",
+            "target": "耶律齊",
+            "val": 34
+        },
+        {
+            "source": "黃蓉",
+            "target": "霍都",
+            "val": 34
+        },
+        {
+            "source": "程英",
+            "target": "李莫愁",
+            "val": 33
+        },
+        {
+            "source": "小龍女",
+            "target": "尹志平",
+            "val": 33
+        },
+        {
+            "source": "郭靖",
+            "target": "金輪國師",
+            "val": 33
+        },
+        {
+            "source": "黃藥師",
+            "target": "周伯通",
+            "val": 33
+        },
+        {
+            "source": "郭靖",
+            "target": "尼摩星",
+            "val": 33
+        },
+        {
+            "source": "郭靖",
+            "target": "黃藥師",
+            "val": 32
+        },
+        {
+            "source": "黃蓉",
+            "target": "黃藥師",
+            "val": 32
+        },
+        {
+            "source": "黃蓉",
+            "target": "裘千尺",
+            "val": 32
+        },
+        {
+            "source": "郭芙",
+            "target": "李莫愁",
+            "val": 31
+        },
+        {
+            "source": "郭靖",
+            "target": "歐陽鋒",
+            "val": 31
+        },
+        {
+            "source": "楊過",
+            "target": "段智興",
+            "val": 31
+        },
+        {
+            "source": "小龍女",
+            "target": "郭芙",
+            "val": 31
+        },
+        {
+            "source": "郭靖",
+            "target": "忽必烈",
+            "val": 31
+        },
+        {
+            "source": "小龍女",
+            "target": "公孫止",
+            "val": 31
+        },
+        {
+            "source": "郭靖",
+            "target": "瀟湘子",
+            "val": 30
+        },
+        {
+            "source": "楊過",
+            "target": "馬光佐",
+            "val": 29
+        },
+        {
+            "source": "郭芙",
+            "target": "武修文",
+            "val": 28
+        },
+        {
+            "source": "尼摩星",
+            "target": "尹克西",
+            "val": 28
+        },
+        {
+            "source": "武三通",
+            "target": "李莫愁",
+            "val": 27
+        },
+        {
+            "source": "郭靖",
+            "target": "霍都",
+            "val": 27
+        },
+        {
+            "source": "黃蓉",
+            "target": "朱子柳",
+            "val": 27
+        },
+        {
+            "source": "郭靖",
+            "target": "周伯通",
+            "val": 26
+        },
+        {
+            "source": "黃蓉",
+            "target": "耶律齊",
+            "val": 26
+        },
+        {
+            "source": "耶律齊",
+            "target": "完顏萍",
+            "val": 24
+        },
+        {
+            "source": "李莫愁",
+            "target": "耶律齊",
+            "val": 24
+        },
+        {
+            "source": "金輪國師",
+            "target": "達爾巴",
+            "val": 24
+        },
+        {
+            "source": "楊過",
+            "target": "忽必烈",
+            "val": 24
+        },
+        {
+            "source": "周伯通",
+            "target": "瑛姑",
+            "val": 24
+        },
+        {
+            "source": "張君寶",
+            "target": "尹克西",
+            "val": 24
+        },
+        {
+            "source": "黃蓉",
+            "target": "歐陽鋒",
+            "val": 23
+        },
+        {
+            "source": "黃蓉",
+            "target": "武三通",
+            "val": 23
+        },
+        {
+            "source": "黃蓉",
+            "target": "魯有腳",
+            "val": 23
+        },
+        {
+            "source": "李莫愁",
+            "target": "公孫止",
+            "val": 23
+        },
+        {
+            "source": "楊過",
+            "target": "尹志平",
+            "val": 22
+        },
+        {
+            "source": "郭靖",
+            "target": "趙志敬",
+            "val": 22
+        },
+        {
+            "source": "黃蓉",
+            "target": "公孫止",
+            "val": 22
+        },
+        {
+            "source": "郭襄",
+            "target": "周伯通",
+            "val": 22
+        },
+        {
+            "source": "郭芙",
+            "target": "武敦儒",
+            "val": 21
+        },
+        {
+            "source": "小龍女",
+            "target": "陸無雙",
+            "val": 21
+        },
+        {
+            "source": "小龍女",
+            "target": "尼摩星",
+            "val": 21
+        },
+        {
+            "source": "周伯通",
+            "target": "趙志敬",
+            "val": 21
+        },
+        {
+            "source": "郭靖",
+            "target": "郭襄",
+            "val": 21
+        },
+        {
+            "source": "武三通",
+            "target": "耶律齊",
+            "val": 21
+        },
+        {
+            "source": "楊過",
+            "target": "鹿清篤",
+            "val": 20
+        },
+        {
+            "source": "黃藥師",
+            "target": "段智興",
+            "val": 20
+        },
+        {
+            "source": "楊過",
+            "target": "郝大通",
+            "val": 20
+        },
+        {
+            "source": "金輪國師",
+            "target": "霍都",
+            "val": 20
+        },
+        {
+            "source": "金輪國師",
+            "target": "瀟湘子",
+            "val": 20
+        },
+        {
+            "source": "黃藥師",
+            "target": "洪七公",
+            "val": 19
+        },
+        {
+            "source": "郭靖",
+            "target": "李莫愁",
+            "val": 19
+        },
+        {
+            "source": "黃藥師",
+            "target": "歐陽鋒",
+            "val": 19
+        },
+        {
+            "source": "郝大通",
+            "target": "孫婆婆",
+            "val": 19
+        },
+        {
+            "source": "耶律燕",
+            "target": "完顏萍",
+            "val": 19
+        },
+        {
+            "source": "郭靖",
+            "target": "朱子柳",
+            "val": 19
+        },
+        {
+            "source": "瀟湘子",
+            "target": "馬光佐",
+            "val": 19
+        },
+        {
+            "source": "郭襄",
+            "target": "大頭鬼",
+            "val": 19
+        },
+        {
+            "source": "小龍女",
+            "target": "洪凌波",
+            "val": 18
+        },
+        {
+            "source": "黃蓉",
+            "target": "段智興",
+            "val": 18
+        },
+        {
+            "source": "程英",
+            "target": "黃藥師",
+            "val": 18
+        },
+        {
+            "source": "黃蓉",
+            "target": "程英",
+            "val": 18
+        },
+        {
+            "source": "郭芙",
+            "target": "武三通",
+            "val": 18
+        },
+        {
+            "source": "楊過",
+            "target": "王重陽",
+            "val": 17
+        },
+        {
+            "source": "小龍女",
+            "target": "歐陽鋒",
+            "val": 17
+        },
+        {
+            "source": "郭芙",
+            "target": "完顏萍",
+            "val": 17
+        },
+        {
+            "source": "小龍女",
+            "target": "朱子柳",
+            "val": 17
+        },
+        {
+            "source": "尼摩星",
+            "target": "馬光佐",
+            "val": 17
+        },
+        {
+            "source": "段智興",
+            "target": "周伯通",
+            "val": 17
+        },
+        {
+            "source": "黃蓉",
+            "target": "洪七公",
+            "val": 16
+        },
+        {
+            "source": "小龍女",
+            "target": "霍都",
+            "val": 16
+        },
+        {
+            "source": "小龍女",
+            "target": "瀟湘子",
+            "val": 16
+        },
+        {
+            "source": "楊過",
+            "target": "瑛姑",
+            "val": 16
+        },
+        {
+            "source": "小龍女",
+            "target": "郝大通",
+            "val": 15
+        },
+        {
+            "source": "郭芙",
+            "target": "金輪國師",
+            "val": 15
+        },
+        {
+            "source": "金輪國師",
+            "target": "尼摩星",
+            "val": 15
+        },
+        {
+            "source": "小龍女",
+            "target": "尹克西",
+            "val": 15
+        },
+        {
+            "source": "武三通",
+            "target": "朱子柳",
+            "val": 15
+        },
+        {
+            "source": "郭襄",
+            "target": "李莫愁",
+            "val": 15
+        },
+        {
+            "source": "郭芙",
+            "target": "公孫止",
+            "val": 15
+        },
+        {
+            "source": "郭靖",
+            "target": "洪七公",
+            "val": 14
+        },
+        {
+            "source": "楊過",
+            "target": "楊康",
+            "val": 14
+        },
+        {
+            "source": "小龍女",
+            "target": "王重陽",
+            "val": 14
+        },
+        {
+            "source": "王重陽",
+            "target": "林朝英",
+            "val": 14
+        },
+        {
+            "source": "楊過",
+            "target": "孫不二",
+            "val": 14
+        },
+        {
+            "source": "洪凌波",
+            "target": "陸無雙",
+            "val": 14
+        },
+        {
+            "source": "郭芙",
+            "target": "耶律燕",
+            "val": 14
+        },
+        {
+            "source": "黃藥師",
+            "target": "李莫愁",
+            "val": 14
+        },
+        {
+            "source": "小龍女",
+            "target": "程英",
+            "val": 14
+        },
+        {
+            "source": "尹克西",
+            "target": "馬光佐",
+            "val": 14
+        },
+        {
+            "source": "瀟湘子",
+            "target": "樊一翁",
+            "val": 14
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "段智興",
+            "val": 13
+        },
+        {
+            "source": "楊過",
+            "target": "耶律晉",
+            "val": 13
+        },
+        {
+            "source": "黃蓉",
+            "target": "陸無雙",
+            "val": 13
+        },
+        {
+            "source": "金輪國師",
+            "target": "尹克西",
+            "val": 13
+        },
+        {
+            "source": "小龍女",
+            "target": "裘千尺",
+            "val": 13
+        },
+        {
+            "source": "郭芙",
+            "target": "程英",
+            "val": 13
+        },
+        {
+            "source": "郭襄",
+            "target": "樊一翁",
+            "val": 13
+        },
+        {
+            "source": "郭靖",
+            "target": "馬鈺",
+            "val": 12
+        },
+        {
+            "source": "郭靖",
+            "target": "郝大通",
+            "val": 12
+        },
+        {
+            "source": "孫婆婆",
+            "target": "趙志敬",
+            "val": 12
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "王重陽",
+            "val": 12
+        },
+        {
+            "source": "耶律齊",
+            "target": "耶律燕",
+            "val": 12
+        },
+        {
+            "source": "李莫愁",
+            "target": "完顏萍",
+            "val": 12
+        },
+        {
+            "source": "黃藥師",
+            "target": "王重陽",
+            "val": 12
+        },
+        {
+            "source": "馬光佐",
+            "target": "樊一翁",
+            "val": 12
+        },
+        {
+            "source": "黃蓉",
+            "target": "武修文",
+            "val": 11
+        },
+        {
+            "source": "段智興",
+            "target": "洪七公",
+            "val": 11
+        },
+        {
+            "source": "郝大通",
+            "target": "趙志敬",
+            "val": 11
+        },
+        {
+            "source": "洪七公",
+            "target": "王重陽",
+            "val": 11
+        },
+        {
+            "source": "魯有腳",
+            "target": "霍都",
+            "val": 11
+        },
+        {
+            "source": "朱子柳",
+            "target": "段智興",
+            "val": 11
+        },
+        {
+            "source": "楊過",
+            "target": "馮默風",
+            "val": 11
+        },
+        {
+            "source": "周伯通",
+            "target": "瀟湘子",
+            "val": 11
+        },
+        {
+            "source": "郭芙",
+            "target": "朱子柳",
+            "val": 11
+        },
+        {
+            "source": "郭襄",
+            "target": "金輪國師",
+            "val": 11
+        },
+        {
+            "source": "郭襄",
+            "target": "黃藥師",
+            "val": 11
+        },
+        {
+            "source": "郭襄",
+            "target": "段智興",
+            "val": 11
+        },
+        {
+            "source": "武三通",
+            "target": "段智興",
+            "val": 10
+        },
+        {
+            "source": "李莫愁",
+            "target": "武三娘",
+            "val": 10
+        },
+        {
+            "source": "郭靖",
+            "target": "武修文",
+            "val": 10
+        },
+        {
+            "source": "郭靖",
+            "target": "段智興",
+            "val": 10
+        },
+        {
+            "source": "趙志敬",
+            "target": "鹿清篤",
+            "val": 10
+        },
+        {
+            "source": "小龍女",
+            "target": "林朝英",
+            "val": 10
+        },
+        {
+            "source": "洪七公",
+            "target": "金輪國師",
+            "val": 10
+        },
+        {
+            "source": "孫不二",
+            "target": "郝大通",
+            "val": 10
+        },
+        {
+            "source": "段智興",
+            "target": "王重陽",
+            "val": 10
+        },
+        {
+            "source": "黃蓉",
+            "target": "達爾巴",
+            "val": 10
+        },
+        {
+            "source": "郭芙",
+            "target": "霍都",
+            "val": 10
+        },
+        {
+            "source": "黃藥師",
+            "target": "陸無雙",
+            "val": 10
+        },
+        {
+            "source": "周伯通",
+            "target": "樊一翁",
+            "val": 10
+        },
+        {
+            "source": "郭靖",
+            "target": "裘千尺",
+            "val": 10
+        },
+        {
+            "source": "小龍女",
+            "target": "武三通",
+            "val": 10
+        },
+        {
+            "source": "郭襄",
+            "target": "耶律齊",
+            "val": 10
+        },
+        {
+            "source": "郭靖",
+            "target": "耶律齊",
+            "val": 10
+        },
+        {
+            "source": "黃蓉",
+            "target": "瑛姑",
+            "val": 10
+        },
+        {
+            "source": "郭襄",
+            "target": "瑛姑",
+            "val": 10
+        },
+        {
+            "source": "郭襄",
+            "target": "尼摩星",
+            "val": 10
+        },
+        {
+            "source": "楊康",
+            "target": "郭靖",
+            "val": 9
+        },
+        {
+            "source": "黃蓉",
+            "target": "趙志敬",
+            "val": 9
+        },
+        {
+            "source": "楊過",
+            "target": "林朝英",
+            "val": 9
+        },
+        {
+            "source": "郭靖",
+            "target": "達爾巴",
+            "val": 9
+        },
+        {
+            "source": "洪七公",
+            "target": "霍都",
+            "val": 9
+        },
+        {
+            "source": "馮默風",
+            "target": "李莫愁",
+            "val": 9
+        },
+        {
+            "source": "金輪國師",
+            "target": "忽必烈",
+            "val": 9
+        },
+        {
+            "source": "周伯通",
+            "target": "尹克西",
+            "val": 9
+        },
+        {
+            "source": "郭靖",
+            "target": "尹克西",
+            "val": 9
+        },
+        {
+            "source": "楊過",
+            "target": "彭長老",
+            "val": 9
+        },
+        {
+            "source": "楊過",
+            "target": "張君寶",
+            "val": 9
+        },
+        {
+            "source": "陸立鼎",
+            "target": "陸二娘",
+            "val": 8
+        },
+        {
+            "source": "陸無雙",
+            "target": "耶律齊",
+            "val": 8
+        },
+        {
+            "source": "孫不二",
+            "target": "趙志敬",
+            "val": 8
+        },
+        {
+            "source": "小龍女",
+            "target": "黃藥師",
+            "val": 8
+        },
+        {
+            "source": "周伯通",
+            "target": "金輪國師",
+            "val": 8
+        },
+        {
+            "source": "小龍女",
+            "target": "樊一翁",
+            "val": 8
+        },
+        {
+            "source": "公孫止",
+            "target": "完顏萍",
+            "val": 8
+        },
+        {
+            "source": "郭靖",
+            "target": "馬光佐",
+            "val": 8
+        },
+        {
+            "source": "郭襄",
+            "target": "郭破虜",
+            "val": 8
+        },
+        {
+            "source": "趙志敬",
+            "target": "尼摩星",
+            "val": 8
+        },
+        {
+            "source": "武修文",
+            "target": "完顏萍",
+            "val": 8
+        },
+        {
+            "source": "武敦儒",
+            "target": "完顏萍",
+            "val": 8
+        },
+        {
+            "source": "陸無雙",
+            "target": "周伯通",
+            "val": 8
+        },
+        {
+            "source": "郭芙",
+            "target": "郭破虜",
+            "val": 8
+        },
+        {
+            "source": "郭芙",
+            "target": "史孟捷",
+            "val": 8
+        },
+        {
+            "source": "郭芙",
+            "target": "尼摩星",
+            "val": 8
+        },
+        {
+            "source": "武三通",
+            "target": "武修文",
+            "val": 7
+        },
+        {
+            "source": "武修文",
+            "target": "李莫愁",
+            "val": 7
+        },
+        {
+            "source": "李莫愁",
+            "target": "陸立鼎",
+            "val": 7
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "李莫愁",
+            "val": 7
+        },
+        {
+            "source": "郭靖",
+            "target": "尹志平",
+            "val": 7
+        },
+        {
+            "source": "楊過",
+            "target": "馬鈺",
+            "val": 7
+        },
+        {
+            "source": "郭靖",
+            "target": "魯有腳",
+            "val": 7
+        },
+        {
+            "source": "郭芙",
+            "target": "黃藥師",
+            "val": 7
+        },
+        {
+            "source": "裘千尺",
+            "target": "公孫綠萼",
+            "val": 7
+        },
+        {
+            "source": "段智興",
+            "target": "裘千仞",
+            "val": 7
+        },
+        {
+            "source": "公孫止",
+            "target": "裘千仞",
+            "val": 7
+        },
+        {
+            "source": "李莫愁",
+            "target": "金輪國師",
+            "val": 7
+        },
+        {
+            "source": "武敦儒",
+            "target": "耶律燕",
+            "val": 7
+        },
+        {
+            "source": "史季強",
+            "target": "史孟捷",
+            "val": 7
+        },
+        {
+            "source": "史伯威",
+            "target": "樊一翁",
+            "val": 7
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "周伯通",
+            "val": 7
+        },
+        {
+            "source": "樊一翁",
+            "target": "大頭鬼",
+            "val": 7
+        },
+        {
+            "source": "程英",
+            "target": "陸立鼎",
+            "val": 6
+        },
+        {
+            "source": "武三通",
+            "target": "武三娘",
+            "val": 6
+        },
+        {
+            "source": "孫婆婆",
+            "target": "尹志平",
+            "val": 6
+        },
+        {
+            "source": "郝大通",
+            "target": "尹志平",
+            "val": 6
+        },
+        {
+            "source": "小龍女",
+            "target": "鹿清篤",
+            "val": 6
+        },
+        {
+            "source": "小龍女",
+            "target": "完顏萍",
+            "val": 6
+        },
+        {
+            "source": "黃蓉",
+            "target": "完顏萍",
+            "val": 6
+        },
+        {
+            "source": "郭靖",
+            "target": "孫不二",
+            "val": 6
+        },
+        {
+            "source": "郭芙",
+            "target": "魯有腳",
+            "val": 6
+        },
+        {
+            "source": "楊過",
+            "target": "魯有腳",
+            "val": 6
+        },
+        {
+            "source": "朱子柳",
+            "target": "金輪國師",
+            "val": 6
+        },
+        {
+            "source": "忽必烈",
+            "target": "瀟湘子",
+            "val": 6
+        },
+        {
+            "source": "忽必烈",
+            "target": "尼摩星",
+            "val": 6
+        },
+        {
+            "source": "裘千尺",
+            "target": "裘千仞",
+            "val": 6
+        },
+        {
+            "source": "周伯通",
+            "target": "裘千仞",
+            "val": 6
+        },
+        {
+            "source": "小龍女",
+            "target": "段智興",
+            "val": 6
+        },
+        {
+            "source": "趙志敬",
+            "target": "瀟湘子",
+            "val": 6
+        },
+        {
+            "source": "趙志敬",
+            "target": "尹克西",
+            "val": 6
+        },
+        {
+            "source": "郭芙",
+            "target": "裘千尺",
+            "val": 6
+        },
+        {
+            "source": "史孟捷",
+            "target": "大頭鬼",
+            "val": 6
+        },
+        {
+            "source": "郭襄",
+            "target": "史叔剛",
+            "val": 6
+        },
+        {
+            "source": "郭襄",
+            "target": "魯有腳",
+            "val": 6
+        },
+        {
+            "source": "聖因師太",
+            "target": "張一氓",
+            "val": 6
+        },
+        {
+            "source": "程英",
+            "target": "瑛姑",
+            "val": 6
+        },
+        {
+            "source": "陸無雙",
+            "target": "陸立鼎",
+            "val": 5
+        },
+        {
+            "source": "武三娘",
+            "target": "陸立鼎",
+            "val": 5
+        },
+        {
+            "source": "楊康",
+            "target": "黃蓉",
+            "val": 5
+        },
+        {
+            "source": "楊過",
+            "target": "穆念慈",
+            "val": 5
+        },
+        {
+            "source": "武三通",
+            "target": "武敦儒",
+            "val": 5
+        },
+        {
+            "source": "郭靖",
+            "target": "武敦儒",
+            "val": 5
+        },
+        {
+            "source": "武修文",
+            "target": "歐陽鋒",
+            "val": 5
+        },
+        {
+            "source": "尹志平",
+            "target": "鹿清篤",
+            "val": 5
+        },
+        {
+            "source": "郝大通",
+            "target": "霍都",
+            "val": 5
+        },
+        {
+            "source": "陸無雙",
+            "target": "完顏萍",
+            "val": 5
+        },
+        {
+            "source": "黃蓉",
+            "target": "耶律燕",
+            "val": 5
+        },
+        {
+            "source": "孫不二",
+            "target": "尹志平",
+            "val": 5
+        },
+        {
+            "source": "郭芙",
+            "target": "達爾巴",
+            "val": 5
+        },
+        {
+            "source": "金輪國師",
+            "target": "馬光佐",
+            "val": 5
+        },
+        {
+            "source": "周伯通",
+            "target": "尼摩星",
+            "val": 5
+        },
+        {
+            "source": "周伯通",
+            "target": "馬光佐",
+            "val": 5
+        },
+        {
+            "source": "周伯通",
+            "target": "忽必烈",
+            "val": 5
+        },
+        {
+            "source": "小龍女",
+            "target": "馬光佐",
+            "val": 5
+        },
+        {
+            "source": "小龍女",
+            "target": "公孫綠萼",
+            "val": 5
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "孫婆婆",
+            "val": 5
+        },
+        {
+            "source": "裘千尺",
+            "target": "樊一翁",
+            "val": 5
+        },
+        {
+            "source": "金輪國師",
+            "target": "裘千尺",
+            "val": 5
+        },
+        {
+            "source": "郭靖",
+            "target": "馮默風",
+            "val": 5
+        },
+        {
+            "source": "尹志平",
+            "target": "尼摩星",
+            "val": 5
+        },
+        {
+            "source": "小龍女",
+            "target": "孫不二",
+            "val": 5
+        },
+        {
+            "source": "武三通",
+            "target": "公孫止",
+            "val": 5
+        },
+        {
+            "source": "周伯通",
+            "target": "耶律齊",
+            "val": 5
+        },
+        {
+            "source": "程英",
+            "target": "耶律齊",
+            "val": 5
+        },
+        {
+            "source": "陸無雙",
+            "target": "公孫止",
+            "val": 5
+        },
+        {
+            "source": "朱子柳",
+            "target": "李莫愁",
+            "val": 5
+        },
+        {
+            "source": "史叔剛",
+            "target": "史季強",
+            "val": 5
+        },
+        {
+            "source": "郭芙",
+            "target": "大頭鬼",
+            "val": 5
+        },
+        {
+            "source": "段智興",
+            "target": "瑛姑",
+            "val": 5
+        },
+        {
+            "source": "郭襄",
+            "target": "史孟捷",
+            "val": 5
+        },
+        {
+            "source": "郭襄",
+            "target": "霍都",
+            "val": 5
+        },
+        {
+            "source": "趙老爵爺",
+            "target": "聾啞頭陀",
+            "val": 5
+        },
+        {
+            "source": "黃蓉",
+            "target": "百草仙",
+            "val": 5
+        },
+        {
+            "source": "黃蓉",
+            "target": "聖因師太",
+            "val": 5
+        },
+        {
+            "source": "黃蓉",
+            "target": "張一氓",
+            "val": 5
+        },
+        {
+            "source": "彭連虎",
+            "target": "沙通天",
+            "val": 5
+        },
+        {
+            "source": "陸無雙",
+            "target": "瑛姑",
+            "val": 5
+        },
+        {
+            "source": "武三娘",
+            "target": "陸二娘",
+            "val": 4
+        },
+        {
+            "source": "馬鈺",
+            "target": "郝大通",
+            "val": 4
+        },
+        {
+            "source": "郝大通",
+            "target": "王重陽",
+            "val": 4
+        },
+        {
+            "source": "楊過",
+            "target": "耶律燕",
+            "val": 4
+        },
+        {
+            "source": "陸無雙",
+            "target": "耶律燕",
+            "val": 4
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "金輪國師",
+            "val": 4
+        },
+        {
+            "source": "程英",
+            "target": "馮默風",
+            "val": 4
+        },
+        {
+            "source": "黃藥師",
+            "target": "金輪國師",
+            "val": 4
+        },
+        {
+            "source": "郝大通",
+            "target": "周伯通",
+            "val": 4
+        },
+        {
+            "source": "程英",
+            "target": "公孫綠萼",
+            "val": 4
+        },
+        {
+            "source": "陸無雙",
+            "target": "公孫綠萼",
+            "val": 4
+        },
+        {
+            "source": "裘千丈",
+            "target": "裘千仞",
+            "val": 4
+        },
+        {
+            "source": "楊過",
+            "target": "裘千仞",
+            "val": 4
+        },
+        {
+            "source": "黃蓉",
+            "target": "裘千仞",
+            "val": 4
+        },
+        {
+            "source": "小龍女",
+            "target": "忽必烈",
+            "val": 4
+        },
+        {
+            "source": "小龍女",
+            "target": "魯有腳",
+            "val": 4
+        },
+        {
+            "source": "郭靖",
+            "target": "郭破虜",
+            "val": 4
+        },
+        {
+            "source": "達爾巴",
+            "target": "瀟湘子",
+            "val": 4
+        },
+        {
+            "source": "達爾巴",
+            "target": "尼摩星",
+            "val": 4
+        },
+        {
+            "source": "郭靖",
+            "target": "武三通",
+            "val": 4
+        },
+        {
+            "source": "周伯通",
+            "target": "尹志平",
+            "val": 4
+        },
+        {
+            "source": "鹿清篤",
+            "target": "尼摩星",
+            "val": 4
+        },
+        {
+            "source": "王重陽",
+            "target": "周伯通",
+            "val": 4
+        },
+        {
+            "source": "朱子柳",
+            "target": "裘千尺",
+            "val": 4
+        },
+        {
+            "source": "武三通",
+            "target": "耶律燕",
+            "val": 4
+        },
+        {
+            "source": "武三通",
+            "target": "完顏萍",
+            "val": 4
+        },
+        {
+            "source": "小龍女",
+            "target": "耶律齊",
+            "val": 4
+        },
+        {
+            "source": "程英",
+            "target": "周伯通",
+            "val": 4
+        },
+        {
+            "source": "武三通",
+            "target": "裘千尺",
+            "val": 4
+        },
+        {
+            "source": "段智興",
+            "target": "耶律齊",
+            "val": 4
+        },
+        {
+            "source": "程英",
+            "target": "公孫止",
+            "val": 4
+        },
+        {
+            "source": "朱子柳",
+            "target": "公孫止",
+            "val": 4
+        },
+        {
+            "source": "史伯威",
+            "target": "史季強",
+            "val": 4
+        },
+        {
+            "source": "史伯威",
+            "target": "史孟捷",
+            "val": 4
+        },
+        {
+            "source": "史仲猛",
+            "target": "史孟捷",
+            "val": 4
+        },
+        {
+            "source": "史叔剛",
+            "target": "史孟捷",
+            "val": 4
+        },
+        {
+            "source": "史仲猛",
+            "target": "喪門鬼",
+            "val": 4
+        },
+        {
+            "source": "史季強",
+            "target": "吊死鬼",
+            "val": 4
+        },
+        {
+            "source": "史季強",
+            "target": "笑臉鬼",
+            "val": 4
+        },
+        {
+            "source": "史叔剛",
+            "target": "笑臉鬼",
+            "val": 4
+        },
+        {
+            "source": "郭襄",
+            "target": "史季強",
+            "val": 4
+        },
+        {
+            "source": "瑛姑",
+            "target": "裘千仞",
+            "val": 4
+        },
+        {
+            "source": "梁長老",
+            "target": "童大海",
+            "val": 4
+        },
+        {
+            "source": "耶律齊",
+            "target": "藍天和",
+            "val": 4
+        },
+        {
+            "source": "耶律齊",
+            "target": "梁長老",
+            "val": 4
+        },
+        {
+            "source": "達爾巴",
+            "target": "青靈子",
+            "val": 4
+        },
+        {
+            "source": "黃藥師",
+            "target": "瀟湘子",
+            "val": 4
+        },
+        {
+            "source": "洪七公",
+            "target": "周伯通",
+            "val": 4
+        },
+        {
+            "source": "朱子柳",
+            "target": "黃藥師",
+            "val": 4
+        },
+        {
+            "source": "程英",
+            "target": "武三娘",
+            "val": 3
+        },
+        {
+            "source": "陸無雙",
+            "target": "武三娘",
+            "val": 3
+        },
+        {
+            "source": "楊康",
+            "target": "穆念慈",
+            "val": 3
+        },
+        {
+            "source": "穆念慈",
+            "target": "郭靖",
+            "val": 3
+        },
+        {
+            "source": "馬鈺",
+            "target": "尹志平",
+            "val": 3
+        },
+        {
+            "source": "郭靖",
+            "target": "王重陽",
+            "val": 3
+        },
+        {
+            "source": "王重陽",
+            "target": "趙志敬",
+            "val": 3
+        },
+        {
+            "source": "馬鈺",
+            "target": "趙志敬",
+            "val": 3
+        },
+        {
+            "source": "孫婆婆",
+            "target": "李莫愁",
+            "val": 3
+        },
+        {
+            "source": "王重陽",
+            "target": "孫婆婆",
+            "val": 3
+        },
+        {
+            "source": "程英",
+            "target": "洪凌波",
+            "val": 3
+        },
+        {
+            "source": "耶律楚材",
+            "target": "耶律晉",
+            "val": 3
+        },
+        {
+            "source": "陸無雙",
+            "target": "耶律晉",
+            "val": 3
+        },
+        {
+            "source": "楊過",
+            "target": "何足道",
+            "val": 3
+        },
+        {
+            "source": "郭靖",
+            "target": "陸無雙",
+            "val": 3
+        },
+        {
+            "source": "小龍女",
+            "target": "洪七公",
+            "val": 3
+        },
+        {
+            "source": "洪七公",
+            "target": "達爾巴",
+            "val": 3
+        },
+        {
+            "source": "武敦儒",
+            "target": "李莫愁",
+            "val": 3
+        },
+        {
+            "source": "黃蓉",
+            "target": "郝大通",
+            "val": 3
+        },
+        {
+            "source": "朱子柳",
+            "target": "達爾巴",
+            "val": 3
+        },
+        {
+            "source": "郝大通",
+            "target": "達爾巴",
+            "val": 3
+        },
+        {
+            "source": "段智興",
+            "target": "金輪國師",
+            "val": 3
+        },
+        {
+            "source": "孫不二",
+            "target": "王重陽",
+            "val": 3
+        },
+        {
+            "source": "小龍女",
+            "target": "達爾巴",
+            "val": 3
+        },
+        {
+            "source": "武修文",
+            "target": "金輪國師",
+            "val": 3
+        },
+        {
+            "source": "馬鈺",
+            "target": "周伯通",
+            "val": 3
+        },
+        {
+            "source": "黃蓉",
+            "target": "王重陽",
+            "val": 3
+        },
+        {
+            "source": "李莫愁",
+            "target": "周伯通",
+            "val": 3
+        },
+        {
+            "source": "耶律齊",
+            "target": "公孫止",
+            "val": 3
+        },
+        {
+            "source": "公孫止",
+            "target": "樊一翁",
+            "val": 3
+        },
+        {
+            "source": "裘千丈",
+            "target": "裘千尺",
+            "val": 3
+        },
+        {
+            "source": "周伯通",
+            "target": "公孫止",
+            "val": 3
+        },
+        {
+            "source": "馬光佐",
+            "target": "裘千尺",
+            "val": 3
+        },
+        {
+            "source": "朱子柳",
+            "target": "魯有腳",
+            "val": 3
+        },
+        {
+            "source": "霍都",
+            "target": "瀟湘子",
+            "val": 3
+        },
+        {
+            "source": "霍都",
+            "target": "尼摩星",
+            "val": 3
+        },
+        {
+            "source": "武敦儒",
+            "target": "朱子柳",
+            "val": 3
+        },
+        {
+            "source": "郭襄",
+            "target": "程英",
+            "val": 3
+        },
+        {
+            "source": "郭襄",
+            "target": "陸無雙",
+            "val": 3
+        },
+        {
+            "source": "武敦儒",
+            "target": "耶律齊",
+            "val": 3
+        },
+        {
+            "source": "耶律齊",
+            "target": "裘千尺",
+            "val": 3
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "裘千仞",
+            "val": 3
+        },
+        {
+            "source": "史伯威",
+            "target": "史仲猛",
+            "val": 3
+        },
+        {
+            "source": "史仲猛",
+            "target": "史季強",
+            "val": 3
+        },
+        {
+            "source": "吊死鬼",
+            "target": "笑臉鬼",
+            "val": 3
+        },
+        {
+            "source": "史叔剛",
+            "target": "吊死鬼",
+            "val": 3
+        },
+        {
+            "source": "史季強",
+            "target": "樊一翁",
+            "val": 3
+        },
+        {
+            "source": "楊過",
+            "target": "史伯威",
+            "val": 3
+        },
+        {
+            "source": "楊過",
+            "target": "史仲猛",
+            "val": 3
+        },
+        {
+            "source": "楊過",
+            "target": "史季強",
+            "val": 3
+        },
+        {
+            "source": "楊過",
+            "target": "史孟捷",
+            "val": 3
+        },
+        {
+            "source": "武修文",
+            "target": "耶律燕",
+            "val": 3
+        },
+        {
+            "source": "耶律齊",
+            "target": "尼摩星",
+            "val": 3
+        },
+        {
+            "source": "黃蓉",
+            "target": "尼摩星",
+            "val": 3
+        },
+        {
+            "source": "黃蓉",
+            "target": "趙老爵爺",
+            "val": 3
+        },
+        {
+            "source": "人廚子",
+            "target": "百草仙",
+            "val": 3
+        },
+        {
+            "source": "人廚子",
+            "target": "張一氓",
+            "val": 3
+        },
+        {
+            "source": "百草仙",
+            "target": "聖因師太",
+            "val": 3
+        },
+        {
+            "source": "百草仙",
+            "target": "張一氓",
+            "val": 3
+        },
+        {
+            "source": "郭襄",
+            "target": "百草仙",
+            "val": 3
+        },
+        {
+            "source": "郭芙",
+            "target": "梁長老",
+            "val": 3
+        },
+        {
+            "source": "郭靖",
+            "target": "樊一翁",
+            "val": 3
+        },
+        {
+            "source": "郭襄",
+            "target": "青靈子",
+            "val": 3
+        },
+        {
+            "source": "金輪國師",
+            "target": "樊一翁",
+            "val": 3
+        },
+        {
+            "source": "黃藥師",
+            "target": "尹克西",
+            "val": 3
+        },
+        {
+            "source": "郭襄",
+            "target": "張君寶",
+            "val": 3
+        },
+        {
+            "source": "武修文",
+            "target": "段智興",
+            "val": 2
+        },
+        {
+            "source": "武三通",
+            "target": "陸立鼎",
+            "val": 2
+        },
+        {
+            "source": "武三通",
+            "target": "程英",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "武敦儒",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "武三娘",
+            "val": 2
+        },
+        {
+            "source": "楊康",
+            "target": "小龍女",
+            "val": 2
+        },
+        {
+            "source": "王重陽",
+            "target": "尹志平",
+            "val": 2
+        },
+        {
+            "source": "馬鈺",
+            "target": "李莫愁",
+            "val": 2
+        },
+        {
+            "source": "小龍女",
+            "target": "馬鈺",
+            "val": 2
+        },
+        {
+            "source": "洪凌波",
+            "target": "武三娘",
+            "val": 2
+        },
+        {
+            "source": "王重陽",
+            "target": "李莫愁",
+            "val": 2
+        },
+        {
+            "source": "李莫愁",
+            "target": "趙志敬",
+            "val": 2
+        },
+        {
+            "source": "楊過",
+            "target": "耶律楚材",
+            "val": 2
+        },
+        {
+            "source": "耶律齊",
+            "target": "耶律楚材",
+            "val": 2
+        },
+        {
+            "source": "耶律楚材",
+            "target": "耶律燕",
+            "val": 2
+        },
+        {
+            "source": "耶律楚材",
+            "target": "完顏萍",
+            "val": 2
+        },
+        {
+            "source": "李莫愁",
+            "target": "耶律燕",
+            "val": 2
+        },
+        {
+            "source": "陸冠英",
+            "target": "程瑤迦",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "孫不二",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "尹志平",
+            "val": 2
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "魯有腳",
+            "val": 2
+        },
+        {
+            "source": "彭長老",
+            "target": "梁長老",
+            "val": 2
+        },
+        {
+            "source": "郭靖",
+            "target": "陸冠英",
+            "val": 2
+        },
+        {
+            "source": "黃藥師",
+            "target": "霍都",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "彭長老",
+            "val": 2
+        },
+        {
+            "source": "朱子柳",
+            "target": "郝大通",
+            "val": 2
+        },
+        {
+            "source": "郝大通",
+            "target": "金輪國師",
+            "val": 2
+        },
+        {
+            "source": "武修文",
+            "target": "霍都",
+            "val": 2
+        },
+        {
+            "source": "洪七公",
+            "target": "李莫愁",
+            "val": 2
+        },
+        {
+            "source": "忽必烈",
+            "target": "馬光佐",
+            "val": 2
+        },
+        {
+            "source": "郭芙",
+            "target": "周伯通",
+            "val": 2
+        },
+        {
+            "source": "尼摩星",
+            "target": "樊一翁",
+            "val": 2
+        },
+        {
+            "source": "李莫愁",
+            "target": "樊一翁",
+            "val": 2
+        },
+        {
+            "source": "孫婆婆",
+            "target": "陸無雙",
+            "val": 2
+        },
+        {
+            "source": "尹克西",
+            "target": "裘千尺",
+            "val": 2
+        },
+        {
+            "source": "金輪國師",
+            "target": "公孫止",
+            "val": 2
+        },
+        {
+            "source": "黃藥師",
+            "target": "公孫止",
+            "val": 2
+        },
+        {
+            "source": "郭靖",
+            "target": "裘千仞",
+            "val": 2
+        },
+        {
+            "source": "郭芙",
+            "target": "忽必烈",
+            "val": 2
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "尼摩星",
+            "val": 2
+        },
+        {
+            "source": "馮默風",
+            "target": "瀟湘子",
+            "val": 2
+        },
+        {
+            "source": "朱子柳",
+            "target": "瀟湘子",
+            "val": 2
+        },
+        {
+            "source": "朱子柳",
+            "target": "尼摩星",
+            "val": 2
+        },
+        {
+            "source": "李莫愁",
+            "target": "尼摩星",
+            "val": 2
+        },
+        {
+            "source": "朱子柳",
+            "target": "武修文",
+            "val": 2
+        },
+        {
+            "source": "郭芙",
+            "target": "趙志敬",
+            "val": 2
+        },
+        {
+            "source": "尹志平",
+            "target": "忽必烈",
+            "val": 2
+        },
+        {
+            "source": "趙志敬",
+            "target": "金輪國師",
+            "val": 2
+        },
+        {
+            "source": "趙志敬",
+            "target": "忽必烈",
+            "val": 2
+        },
+        {
+            "source": "朱子柳",
+            "target": "周伯通",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "郭破虜",
+            "val": 2
+        },
+        {
+            "source": "郭襄",
+            "target": "武三通",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "公孫綠萼",
+            "val": 2
+        },
+        {
+            "source": "郭襄",
+            "target": "王重陽",
+            "val": 2
+        },
+        {
+            "source": "黃藥師",
+            "target": "裘千仞",
+            "val": 2
+        },
+        {
+            "source": "洪七公",
+            "target": "裘千仞",
+            "val": 2
+        },
+        {
+            "source": "王重陽",
+            "target": "裘千仞",
+            "val": 2
+        },
+        {
+            "source": "李莫愁",
+            "target": "裘千尺",
+            "val": 2
+        },
+        {
+            "source": "公孫止",
+            "target": "公孫綠萼",
+            "val": 2
+        },
+        {
+            "source": "武敦儒",
+            "target": "公孫止",
+            "val": 2
+        },
+        {
+            "source": "朱子柳",
+            "target": "完顏萍",
+            "val": 2
+        },
+        {
+            "source": "小龍女",
+            "target": "武敦儒",
+            "val": 2
+        },
+        {
+            "source": "郭破虜",
+            "target": "耶律齊",
+            "val": 2
+        },
+        {
+            "source": "郭靖",
+            "target": "大頭鬼",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "大頭鬼",
+            "val": 2
+        },
+        {
+            "source": "史伯威",
+            "target": "史叔剛",
+            "val": 2
+        },
+        {
+            "source": "史仲猛",
+            "target": "史叔剛",
+            "val": 2
+        },
+        {
+            "source": "史叔剛",
+            "target": "樊一翁",
+            "val": 2
+        },
+        {
+            "source": "史孟捷",
+            "target": "樊一翁",
+            "val": 2
+        },
+        {
+            "source": "樊一翁",
+            "target": "喪門鬼",
+            "val": 2
+        },
+        {
+            "source": "樊一翁",
+            "target": "笑臉鬼",
+            "val": 2
+        },
+        {
+            "source": "喪門鬼",
+            "target": "笑臉鬼",
+            "val": 2
+        },
+        {
+            "source": "史仲猛",
+            "target": "催命鬼",
+            "val": 2
+        },
+        {
+            "source": "催命鬼",
+            "target": "喪門鬼",
+            "val": 2
+        },
+        {
+            "source": "郭襄",
+            "target": "笑臉鬼",
+            "val": 2
+        },
+        {
+            "source": "楊過",
+            "target": "史叔剛",
+            "val": 2
+        },
+        {
+            "source": "郭襄",
+            "target": "史仲猛",
+            "val": 2
+        },
+        {
+            "source": "武修文",
+            "target": "耶律齊",
+            "val": 2
+        },
+        {
+            "source": "郭芙",
+            "target": "史季強",
+            "val": 2
+        },
+        {
+            "source": "耶律齊",
+            "target": "大頭鬼",
+            "val": 2
+        },
+        {
+            "source": "耶律齊",
+            "target": "魯有腳",
+            "val": 2
+        },
+        {
+            "source": "段智興",
+            "target": "尼摩星",
+            "val": 2
+        },
+        {
+            "source": "郭靖",
+            "target": "趙老爵爺",
+            "val": 2
+        },
+        {
+            "source": "黃蓉",
+            "target": "人廚子",
+            "val": 2
+        },
+        {
+            "source": "人廚子",
+            "target": "聖因師太",
+            "val": 2
+        },
+        {
+            "source": "聖因師太",
+            "target": "朱子柳",
+            "val": 2
+        },
+        {
+            "source": "朱子柳",
+            "target": "張一氓",
+            "val": 2
+        },
+        {
+            "source": "九死生",
+            "target": "百草仙",
+            "val": 2
+        },
+        {
+            "source": "韓無垢",
+            "target": "張一氓",
+            "val": 2
+        },
+        {
+            "source": "郭靖",
+            "target": "韓無垢",
+            "val": 2
+        },
+        {
+            "source": "郭靖",
+            "target": "聖因師太",
+            "val": 2
+        },
+        {
+            "source": "韓無垢",
+            "target": "聖因師太",
+            "val": 2
+        },
+        {
+            "source": "耶律齊",
+            "target": "霍都",
+            "val": 2
+        },
+        {
+            "source": "曇華大師",
+            "target": "趙老爵爺",
+            "val": 2
+        },
+        {
+            "source": "霍都",
+            "target": "樊一翁",
+            "val": 2
+        },
+        {
+            "source": "靈智上人",
+            "target": "彭連虎",
+            "val": 2
+        },
+        {
+            "source": "靈智上人",
+            "target": "侯通海",
+            "val": 2
+        },
+        {
+            "source": "彭連虎",
+            "target": "侯通海",
+            "val": 2
+        },
+        {
+            "source": "程英",
+            "target": "段智興",
+            "val": 2
+        },
+        {
+            "source": "段智興",
+            "target": "陸無雙",
+            "val": 2
+        },
+        {
+            "source": "黃藥師",
+            "target": "瑛姑",
+            "val": 2
+        },
+        {
+            "source": "黃藥師",
+            "target": "耶律齊",
+            "val": 2
+        },
+        {
+            "source": "張君寶",
+            "target": "瀟湘子",
+            "val": 2
+        },
+        {
+            "source": "段智興",
+            "target": "武三娘",
+            "val": 1
+        },
+        {
+            "source": "武敦儒",
+            "target": "陸二娘",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "陸二娘",
+            "val": 1
+        },
+        {
+            "source": "武三通",
+            "target": "陸二娘",
+            "val": 1
+        },
+        {
+            "source": "李莫愁",
+            "target": "陸二娘",
+            "val": 1
+        },
+        {
+            "source": "楊康",
+            "target": "洪七公",
+            "val": 1
+        },
+        {
+            "source": "穆念慈",
+            "target": "黃蓉",
+            "val": 1
+        },
+        {
+            "source": "穆念慈",
+            "target": "洪七公",
+            "val": 1
+        },
+        {
+            "source": "武敦儒",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "靈智上人",
+            "val": 1
+        },
+        {
+            "source": "穆念慈",
+            "target": "小龍女",
+            "val": 1
+        },
+        {
+            "source": "程瑤迦",
+            "target": "趙志敬",
+            "val": 1
+        },
+        {
+            "source": "程瑤迦",
+            "target": "尹志平",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "鹿清篤",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "孫婆婆",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "孫婆婆",
+            "val": 1
+        },
+        {
+            "source": "馬鈺",
+            "target": "孫婆婆",
+            "val": 1
+        },
+        {
+            "source": "洪凌波",
+            "target": "陸立鼎",
+            "val": 1
+        },
+        {
+            "source": "孫婆婆",
+            "target": "洪凌波",
+            "val": 1
+        },
+        {
+            "source": "王重陽",
+            "target": "洪凌波",
+            "val": 1
+        },
+        {
+            "source": "李莫愁",
+            "target": "尹志平",
+            "val": 1
+        },
+        {
+            "source": "何足道",
+            "target": "耶律晉",
+            "val": 1
+        },
+        {
+            "source": "耶律晉",
+            "target": "完顏萍",
+            "val": 1
+        },
+        {
+            "source": "林朝英",
+            "target": "李莫愁",
+            "val": 1
+        },
+        {
+            "source": "何足道",
+            "target": "李莫愁",
+            "val": 1
+        },
+        {
+            "source": "郝大通",
+            "target": "耶律齊",
+            "val": 1
+        },
+        {
+            "source": "馬鈺",
+            "target": "耶律齊",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "李莫愁",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "耶律齊",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "耶律燕",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "完顏萍",
+            "val": 1
+        },
+        {
+            "source": "洪七公",
+            "target": "林朝英",
+            "val": 1
+        },
+        {
+            "source": "洪七公",
+            "target": "陸無雙",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "陸乘風",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "陸乘風",
+            "val": 1
+        },
+        {
+            "source": "陸乘風",
+            "target": "黃藥師",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "陸冠英",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "程瑤迦",
+            "val": 1
+        },
+        {
+            "source": "陸乘風",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "程瑤迦",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "程瑤迦",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "郝大通",
+            "val": 1
+        },
+        {
+            "source": "穆念慈",
+            "target": "黃藥師",
+            "val": 1
+        },
+        {
+            "source": "穆念慈",
+            "target": "趙志敬",
+            "val": 1
+        },
+        {
+            "source": "黃藥師",
+            "target": "趙志敬",
+            "val": 1
+        },
+        {
+            "source": "武敦儒",
+            "target": "魯有腳",
+            "val": 1
+        },
+        {
+            "source": "楊過",
+            "target": "陸冠英",
+            "val": 1
+        },
+        {
+            "source": "郝大通",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "陸冠英",
+            "val": 1
+        },
+        {
+            "source": "郝大通",
+            "target": "陸冠英",
+            "val": 1
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "彭長老",
+            "val": 1
+        },
+        {
+            "source": "馬鈺",
+            "target": "洪七公",
+            "val": 1
+        },
+        {
+            "source": "馬鈺",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "郝大通",
+            "target": "段智興",
+            "val": 1
+        },
+        {
+            "source": "武敦儒",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "洪七公",
+            "target": "魯有腳",
+            "val": 1
+        },
+        {
+            "source": "段智興",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "孫婆婆",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "孫婆婆",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "武敦儒",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "林朝英",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "達爾巴",
+            "val": 1
+        },
+        {
+            "source": "程英",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "曲靈風",
+            "target": "黃藥師",
+            "val": 1
+        },
+        {
+            "source": "曲靈風",
+            "target": "李莫愁",
+            "val": 1
+        },
+        {
+            "source": "馮默風",
+            "target": "黃藥師",
+            "val": 1
+        },
+        {
+            "source": "陸乘風",
+            "target": "曲靈風",
+            "val": 1
+        },
+        {
+            "source": "陸乘風",
+            "target": "馮默風",
+            "val": 1
+        },
+        {
+            "source": "曲靈風",
+            "target": "馮默風",
+            "val": 1
+        },
+        {
+            "source": "馮默風",
+            "target": "陸無雙",
+            "val": 1
+        },
+        {
+            "source": "何足道",
+            "target": "周伯通",
+            "val": 1
+        },
+        {
+            "source": "周伯通",
+            "target": "公孫綠萼",
+            "val": 1
+        },
+        {
+            "source": "程英",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "程英",
+            "target": "孫婆婆",
+            "val": 1
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "陸無雙",
+            "val": 1
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "公孫綠萼",
+            "val": 1
+        },
+        {
+            "source": "孫婆婆",
+            "target": "公孫綠萼",
+            "val": 1
+        },
+        {
+            "source": "裘千丈",
+            "target": "公孫止",
+            "val": 1
+        },
+        {
+            "source": "周伯通",
+            "target": "裘千尺",
+            "val": 1
+        },
+        {
+            "source": "瀟湘子",
+            "target": "裘千尺",
+            "val": 1
+        },
+        {
+            "source": "瀟湘子",
+            "target": "公孫止",
+            "val": 1
+        },
+        {
+            "source": "瀟湘子",
+            "target": "裘千仞",
+            "val": 1
+        },
+        {
+            "source": "尹克西",
+            "target": "公孫止",
+            "val": 1
+        },
+        {
+            "source": "尹克西",
+            "target": "裘千仞",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "公孫止",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "忽必烈",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "忽必烈",
+            "val": 1
+        },
+        {
+            "source": "忽必烈",
+            "target": "尹克西",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "瀟湘子",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "裘千丈",
+            "val": 1
+        },
+        {
+            "source": "魯有腳",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "武三通",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "武三通",
+            "target": "陸無雙",
+            "val": 1
+        },
+        {
+            "source": "武三通",
+            "target": "公孫綠萼",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "洪七公",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "尹志平",
+            "val": 1
+        },
+        {
+            "source": "歐陽鋒",
+            "target": "尹志平",
+            "val": 1
+        },
+        {
+            "source": "尹志平",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "何足道",
+            "target": "趙志敬",
+            "val": 1
+        },
+        {
+            "source": "林朝英",
+            "target": "周伯通",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "郝大通",
+            "target": "李莫愁",
+            "val": 1
+        },
+        {
+            "source": "馬鈺",
+            "target": "王重陽",
+            "val": 1
+        },
+        {
+            "source": "孫婆婆",
+            "target": "鹿清篤",
+            "val": 1
+        },
+        {
+            "source": "陸無雙",
+            "target": "趙志敬",
+            "val": 1
+        },
+        {
+            "source": "陸無雙",
+            "target": "鹿清篤",
+            "val": 1
+        },
+        {
+            "source": "尹志平",
+            "target": "尹克西",
+            "val": 1
+        },
+        {
+            "source": "鹿清篤",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "鹿清篤",
+            "target": "瀟湘子",
+            "val": 1
+        },
+        {
+            "source": "小龍女",
+            "target": "何足道",
+            "val": 1
+        },
+        {
+            "source": "何足道",
+            "target": "尹志平",
+            "val": 1
+        },
+        {
+            "source": "孫不二",
+            "target": "馬鈺",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "公孫止",
+            "val": 1
+        },
+        {
+            "source": "林朝英",
+            "target": "孫婆婆",
+            "val": 1
+        },
+        {
+            "source": "小龍女",
+            "target": "彭長老",
+            "val": 1
+        },
+        {
+            "source": "段智興",
+            "target": "彭長老",
+            "val": 1
+        },
+        {
+            "source": "彭長老",
+            "target": "裘千仞",
+            "val": 1
+        },
+        {
+            "source": "段智興",
+            "target": "洪凌波",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "裘千尺",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "洪七公",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "裘千仞",
+            "val": 1
+        },
+        {
+            "source": "裘千尺",
+            "target": "完顏萍",
+            "val": 1
+        },
+        {
+            "source": "段智興",
+            "target": "裘千尺",
+            "val": 1
+        },
+        {
+            "source": "程英",
+            "target": "裘千尺",
+            "val": 1
+        },
+        {
+            "source": "陸無雙",
+            "target": "裘千尺",
+            "val": 1
+        },
+        {
+            "source": "耶律燕",
+            "target": "公孫止",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "段智興",
+            "val": 1
+        },
+        {
+            "source": "段智興",
+            "target": "耶律燕",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "陸無雙",
+            "val": 1
+        },
+        {
+            "source": "李莫愁",
+            "target": "公孫綠萼",
+            "val": 1
+        },
+        {
+            "source": "楊過",
+            "target": "郭破虜",
+            "val": 1
+        },
+        {
+            "source": "史孟捷",
+            "target": "喪門鬼",
+            "val": 1
+        },
+        {
+            "source": "史孟捷",
+            "target": "笑臉鬼",
+            "val": 1
+        },
+        {
+            "source": "史仲猛",
+            "target": "討債鬼",
+            "val": 1
+        },
+        {
+            "source": "黃藥師",
+            "target": "公孫綠萼",
+            "val": 1
+        },
+        {
+            "source": "楊過",
+            "target": "煞神鬼",
+            "val": 1
+        },
+        {
+            "source": "史季強",
+            "target": "何足道",
+            "val": 1
+        },
+        {
+            "source": "史季強",
+            "target": "煞神鬼",
+            "val": 1
+        },
+        {
+            "source": "何足道",
+            "target": "煞神鬼",
+            "val": 1
+        },
+        {
+            "source": "史仲猛",
+            "target": "金輪國師",
+            "val": 1
+        },
+        {
+            "source": "史仲猛",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "史仲猛",
+            "target": "煞神鬼",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "武敦儒",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "武修文",
+            "val": 1
+        },
+        {
+            "source": "郭破虜",
+            "target": "周伯通",
+            "val": 1
+        },
+        {
+            "source": "霍都",
+            "target": "煞神鬼",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "樊一翁",
+            "val": 1
+        },
+        {
+            "source": "史季強",
+            "target": "大頭鬼",
+            "val": 1
+        },
+        {
+            "source": "史孟捷",
+            "target": "耶律齊",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "史仲猛",
+            "val": 1
+        },
+        {
+            "source": "武三通",
+            "target": "陸冠英",
+            "val": 1
+        },
+        {
+            "source": "武三通",
+            "target": "程瑤迦",
+            "val": 1
+        },
+        {
+            "source": "朱子柳",
+            "target": "陸冠英",
+            "val": 1
+        },
+        {
+            "source": "朱子柳",
+            "target": "程瑤迦",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "聾啞頭陀",
+            "val": 1
+        },
+        {
+            "source": "尼摩星",
+            "target": "趙老爵爺",
+            "val": 1
+        },
+        {
+            "source": "尼摩星",
+            "target": "聾啞頭陀",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "聾啞頭陀",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "無常鬼",
+            "val": 1
+        },
+        {
+            "source": "人廚子",
+            "target": "朱子柳",
+            "val": 1
+        },
+        {
+            "source": "人廚子",
+            "target": "無常鬼",
+            "val": 1
+        },
+        {
+            "source": "百草仙",
+            "target": "朱子柳",
+            "val": 1
+        },
+        {
+            "source": "百草仙",
+            "target": "無常鬼",
+            "val": 1
+        },
+        {
+            "source": "聖因師太",
+            "target": "無常鬼",
+            "val": 1
+        },
+        {
+            "source": "朱子柳",
+            "target": "無常鬼",
+            "val": 1
+        },
+        {
+            "source": "無常鬼",
+            "target": "張一氓",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "九死生",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "韓無垢",
+            "val": 1
+        },
+        {
+            "source": "九死生",
+            "target": "人廚子",
+            "val": 1
+        },
+        {
+            "source": "九死生",
+            "target": "韓無垢",
+            "val": 1
+        },
+        {
+            "source": "九死生",
+            "target": "張一氓",
+            "val": 1
+        },
+        {
+            "source": "人廚子",
+            "target": "韓無垢",
+            "val": 1
+        },
+        {
+            "source": "百草仙",
+            "target": "韓無垢",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "朱子柳",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "九死生",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "聖因師太",
+            "val": 1
+        },
+        {
+            "source": "魯有腳",
+            "target": "彭長老",
+            "val": 1
+        },
+        {
+            "source": "魯有腳",
+            "target": "梁長老",
+            "val": 1
+        },
+        {
+            "source": "梁長老",
+            "target": "耶律燕",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "張一氓",
+            "val": 1
+        },
+        {
+            "source": "尼摩星",
+            "target": "裘千仞",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "藍天和",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "藍天和",
+            "val": 1
+        },
+        {
+            "source": "大頭鬼",
+            "target": "藍天和",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "梁長老",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "史伯威",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "史伯威",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "史伯威",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "吊死鬼",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "樊一翁",
+            "val": 1
+        },
+        {
+            "source": "耶律齊",
+            "target": "耶律晉",
+            "val": 1
+        },
+        {
+            "source": "梁長老",
+            "target": "霍都",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "曇華大師",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "趙老爵爺",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "聾啞頭陀",
+            "val": 1
+        },
+        {
+            "source": "曇華大師",
+            "target": "聾啞頭陀",
+            "val": 1
+        },
+        {
+            "source": "曇華大師",
+            "target": "青靈子",
+            "val": 1
+        },
+        {
+            "source": "趙老爵爺",
+            "target": "青靈子",
+            "val": 1
+        },
+        {
+            "source": "聾啞頭陀",
+            "target": "青靈子",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "曇華大師",
+            "val": 1
+        },
+        {
+            "source": "黃蓉",
+            "target": "曇華大師",
+            "val": 1
+        },
+        {
+            "source": "金輪國師",
+            "target": "曇華大師",
+            "val": 1
+        },
+        {
+            "source": "金輪國師",
+            "target": "趙老爵爺",
+            "val": 1
+        },
+        {
+            "source": "達爾巴",
+            "target": "曇華大師",
+            "val": 1
+        },
+        {
+            "source": "達爾巴",
+            "target": "趙老爵爺",
+            "val": 1
+        },
+        {
+            "source": "耶律齊",
+            "target": "達爾巴",
+            "val": 1
+        },
+        {
+            "source": "史叔剛",
+            "target": "耶律齊",
+            "val": 1
+        },
+        {
+            "source": "耶律齊",
+            "target": "青靈子",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "達爾巴",
+            "val": 1
+        },
+        {
+            "source": "楊過",
+            "target": "梁長老",
+            "val": 1
+        },
+        {
+            "source": "楊康",
+            "target": "郭芙",
+            "val": 1
+        },
+        {
+            "source": "魯有腳",
+            "target": "樊一翁",
+            "val": 1
+        },
+        {
+            "source": "靈智上人",
+            "target": "沙通天",
+            "val": 1
+        },
+        {
+            "source": "侯通海",
+            "target": "沙通天",
+            "val": 1
+        },
+        {
+            "source": "楊過",
+            "target": "彭連虎",
+            "val": 1
+        },
+        {
+            "source": "楊過",
+            "target": "沙通天",
+            "val": 1
+        },
+        {
+            "source": "楊康",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "金輪國師",
+            "target": "大頭鬼",
+            "val": 1
+        },
+        {
+            "source": "霍都",
+            "target": "大頭鬼",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "忽必烈",
+            "val": 1
+        },
+        {
+            "source": "朱子柳",
+            "target": "耶律燕",
+            "val": 1
+        },
+        {
+            "source": "武修文",
+            "target": "梁長老",
+            "val": 1
+        },
+        {
+            "source": "郭芙",
+            "target": "瑛姑",
+            "val": 1
+        },
+        {
+            "source": "朱子柳",
+            "target": "歐陽鋒",
+            "val": 1
+        },
+        {
+            "source": "朱子柳",
+            "target": "洪七公",
+            "val": 1
+        },
+        {
+            "source": "達爾巴",
+            "target": "尹克西",
+            "val": 1
+        },
+        {
+            "source": "達爾巴",
+            "target": "馬光佐",
+            "val": 1
+        },
+        {
+            "source": "霍都",
+            "target": "尹克西",
+            "val": 1
+        },
+        {
+            "source": "霍都",
+            "target": "馬光佐",
+            "val": 1
+        },
+        {
+            "source": "段智興",
+            "target": "瀟湘子",
+            "val": 1
+        },
+        {
+            "source": "郭襄",
+            "target": "瀟湘子",
+            "val": 1
+        },
+        {
+            "source": "小龍女",
+            "target": "張君寶",
+            "val": 1
+        },
+        {
+            "source": "郭靖",
+            "target": "張君寶",
+            "val": 1
+        },
+        {
+            "source": "張君寶",
+            "target": "周伯通",
+            "val": 1
+        }
+    ]
+}

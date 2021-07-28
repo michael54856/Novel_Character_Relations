@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="//unpkg.com/three"></script>
+    <script src="//unpkg.com/three-spritetext"></script>
+    <script src="//unpkg.com/three/examples/js/renderers/CSS2DRenderer.js"></script>
+    <script src="//unpkg.com/3d-force-graph"></script>
+    <script src="scripts/jQuery.js"></script>
+    <link rel="stylesheet" href="css/buttonStyle.css" />
+    <link rel="stylesheet" href="css/tableStyle.css" />
+    <style>
+      .node-label {
+        font-size: 12px;
+        padding: 1px 4px;
+        border-radius: 4px;
+        background-color: rgba(0,0,0,0.5);
+        user-select: none;
+      }
+    </style>
+    <meta charset="utf-8">
+    <title>神鵰俠侶-人物關係圖</title>
+  </head>
+  <body>
+    <h1 align="center">神鵰俠侶-人物關係圖</h1>
+    <div id="3d-graph" align="center"></div>
+      <script>
+      const myGraph = ForceGraph3D({extraRenderers: [new THREE.CSS2DRenderer()] });
+      myGraph(document.getElementById('3d-graph'))
+      .jsonUrl('data.json')
+      .nodeAutoColorBy('id')
+      .nodeVal(node => Math.max(node.val / 50, 0.2))
+      .nodeThreeObject(node => {
+        const nodeEl = document.createElement('div');
+        nodeEl.textContent = node.id;
+        nodeEl.style.color = node.color;
+        nodeEl.className = 'node-label';
+        return new THREE.CSS2DObject(nodeEl);
+      })
+      .nodeThreeObjectExtend(true)
+      .linkWidth(link => Math.max(link.val / 50, 0.1))
+      .linkThreeObjectExtend(true)
+      .linkThreeObject(link => {
+        const sprite = new SpriteText(`${link.source}_${link.target}:${link.val}`);
+        sprite.color = 'lightgrey';
+        sprite.textHeight = 1.1;
+        return sprite;
+      })
+      .linkPositionUpdate((sprite, { start, end }) => {
+        const middlePos = Object.assign(...['x', 'y', 'z'].map(c => ({
+        [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
+         })));
+
+        // Position sprite
+        Object.assign(sprite.position, middlePos);
+      });
+      myGraph.width(1200);
+      myGraph.d3Force('charge').strength(-120);
+
+      </script>
+      
+      <div align="center">
+        <button class="custom-btn btn-3" id="nodeButton"><span>Nodes</span></button>
+        <button class="custom-btn btn-3" id="edgeButton"><span>Edges</span></button>
+      </div>
+      <br></br>
+      <div align="center" id="myTable">
+        
+      </div>
+      
+      <script src = "scripts/createTable.js"></script>
+
+  </body>
+</html>
